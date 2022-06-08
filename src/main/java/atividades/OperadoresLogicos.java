@@ -1,4 +1,4 @@
-package batata;
+package atividades;
 
 public class OperadoresLogicos {
     public static void main(String[] args) {

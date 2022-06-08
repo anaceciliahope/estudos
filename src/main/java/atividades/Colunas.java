@@ -1,4 +1,4 @@
-package batata;
+package atividades;
 
 import java.util.Scanner;
 
